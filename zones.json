@@ -1,11 +1,5 @@
 [
   {
-    "id": -1,
-    "name": "[!] SUGGEST GAMES .gg/D4c9VFYWyU",
-    "cover": "{COVER_URL}/dc.png",
-    "url": "https://raw.githubusercontent.com/omencc/watermusic4/main/games/-1.html"
-  },
-  {
     "id": 0,
     "name": "Bowmasters",
     "cover": "{COVER_URL}/0.png",
@@ -100,14 +94,6 @@
     "url": "https://raw.githubusercontent.com/omencc/watermusic4/main/games/11.html",
     "author": "Madbox",
     "authorLink": "https://madbox.io"
-  },
-  {
-    "id": 13,
-    "name": "Attack Hole",
-    "cover": "{COVER_URL}/13.png",
-    "url": "https://raw.githubusercontent.com/omencc/watermusic4/main/games/13.html",
-    "author": "Homa Games",
-    "authorLink": "https://www.homagames.com"
   },
   {
     "id": 14,
